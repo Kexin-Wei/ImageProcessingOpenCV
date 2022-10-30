@@ -1,0 +1,3 @@
+/home/wkx/Projects/opencvCPPtest/CMakeFiles/OpencvTest.dir
+/home/wkx/Projects/opencvCPPtest/CMakeFiles/edit_cache.dir
+/home/wkx/Projects/opencvCPPtest/CMakeFiles/rebuild_cache.dir
