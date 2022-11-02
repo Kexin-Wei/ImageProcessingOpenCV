@@ -1,0 +1,1 @@
+/usr/bin/clang++-14 -g CMakeFiles/qtCreatorCPPTest.dir/main.cpp.o CMakeFiles/qtCreatorCPPTest.dir/src/dog.cpp.o -o qtCreatorCPPTest 

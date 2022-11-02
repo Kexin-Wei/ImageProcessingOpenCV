@@ -49,3 +49,19 @@ Refer to [^1] and [^2].
 [^1]: [opencv official install in Linux](https://docs.opencv.org/4.x/d7/d9f/tutorial_linux_install.html)
 
 [^2]: [GeeksforGeeks Install Reference](https://www.geeksforgeeks.org/how-to-install-opencv-in-c-on-linux/)
+
+# Learn Basic C++ Application
+> using Qt Creator as IDE, since VS code requires too much memory
+
+## Project Structure and Cmake
+
+- How should the project structure be like? 
+  How to set CMake for this project? 
+  How to include files in main.cpp?
+  > The CMake usage and simple tutorial is in folder `3qtCreatorTest`
+
+- [ ] Test Cpp and head files in test/test.cpp
+
+# Image Processing Algorithm implemented in OpenCV
+
+check the README.md in folder `opencvAlgo`.
