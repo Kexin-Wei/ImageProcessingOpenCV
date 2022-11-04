@@ -1,0 +1,1 @@
+/usr/bin/clang++-11 -g CMakeFiles/3qtCreatorCPPTest.dir/main.cpp.o CMakeFiles/3qtCreatorCPPTest.dir/src/dog.cpp.o -o 3qtCreatorCPPTest 

@@ -1,5 +1,9 @@
-CPP Project Directory Structure
+CPP Project with Qt Creator
 ===
+
+# QT Creator SetUp
+Set up the kit path for Qt, G++/Clang++, GDB
+- somehow Ninja tested failed, change to unix makefile
 
 # General Structure
 
@@ -25,5 +29,3 @@ add_executable(qtCreatorCPPTest main.cpp
 # add head files             
 target_include_directories(qtCreatorCPPTest PRIVATE ${CMAKE_CURRENT_SOURCE_DIR}/include)
 ```
- 
- 

@@ -1,0 +1,3 @@
+/home/vac/Projects/GithubOpenCV/3qtCreatorCPPTest/build/CMakeFiles/rebuild_cache.dir
+/home/vac/Projects/GithubOpenCV/3qtCreatorCPPTest/build/CMakeFiles/edit_cache.dir
+/home/vac/Projects/GithubOpenCV/3qtCreatorCPPTest/build/CMakeFiles/3qtCreatorCPPTest.dir

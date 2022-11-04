@@ -1,3 +1,0 @@
-/home/wkx/Projects/qtCreatorCPPTest/build-qtCreatorCPPTest-Desktop-Debug/CMakeFiles/qtCreatorCPPTest.dir
-/home/wkx/Projects/qtCreatorCPPTest/build-qtCreatorCPPTest-Desktop-Debug/CMakeFiles/edit_cache.dir
-/home/wkx/Projects/qtCreatorCPPTest/build-qtCreatorCPPTest-Desktop-Debug/CMakeFiles/rebuild_cache.dir
