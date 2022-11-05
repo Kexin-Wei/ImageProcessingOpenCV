@@ -1,0 +1,4 @@
+/home/vac/Projects/GithubOpenCV/4CMakeAndTestCPP/build-4CMakeAndTestCPP-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/vac/Projects/GithubOpenCV/4CMakeAndTestCPP/build-4CMakeAndTestCPP-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/vac/Projects/GithubOpenCV/4CMakeAndTestCPP/build-4CMakeAndTestCPP-Desktop-Debug/CMakeFiles/executeApp.dir
+/home/vac/Projects/GithubOpenCV/4CMakeAndTestCPP/build-4CMakeAndTestCPP-Desktop-Debug/CMakeFiles/aexamplelib.dir

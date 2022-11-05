@@ -1,0 +1,7 @@
+# ninja log v5
+1	121	1667654579316695078	CMakeFiles/aexamplelib.dir/src/dog.cpp.o	8997e3da8e1fb86a
+2	147	1667654579336694984	CMakeFiles/aexamplelib.dir/src/cat.cpp.o	bd2ef5ce3009cf7e
+0	164	1667654579360694871	CMakeFiles/executeApp.dir/main.cpp.o	801619c948f2b4f0
+147	228	1667654579428694551	libaexamplelib.a	cfa6ec1e91a1ca36
+0	1230	1667654647280366784	CMakeFiles/executeApp.dir/main.cpp.o	801619c948f2b4f0
+1233	1516	1667654647572365340	executeApp	a0c0348a0df744bf

@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "4CMakeAndTestCPP",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "aexamplelib::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-aexamplelib-Debug-cc5e85ccb801223af0fc.json",
+					"name" : "aexamplelib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "executeApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-executeApp-Debug-4c0c8e7de211ae8d65a9.json",
+					"name" : "executeApp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/vac/Projects/GithubOpenCV/4CMakeAndTestCPP/build-4CMakeAndTestCPP-Desktop-Debug",
+		"source" : "/home/vac/Projects/GithubOpenCV/4CMakeAndTestCPP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}

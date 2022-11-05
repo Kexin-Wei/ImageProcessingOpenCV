@@ -6,7 +6,7 @@ Set up the kit path for Qt, G++/Clang++, GDB
 - somehow Ninja tested failed, change to unix makefile
 
 # General Structure
-
+```bash
 Project Folder
  |
  - include
@@ -17,11 +17,11 @@ Project Folder
  |  |
  |  dog.cpp (lib file) #include <dog.h>
  |
- main.cpp #include <dog.h>
- 
- 
+  main.cpp #include <dog.h>
+```
+
 # CMakeList.txt Adding Contents
- 
+
 ```cmake
 # add source cpp
 add_executable(qtCreatorCPPTest main.cpp

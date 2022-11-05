@@ -53,14 +53,25 @@ Refer to [^1] and [^2].
 # Learn Basic C++ Application
 > using Qt Creator as IDE, since VS code requires too much memory
 
+What I read:
+
+- [A website to learn CMake](https://cliutils.gitlab.io/modern-cmake/) : very basic, or list of things you should know but need to read more to comprehend
+- CMake book: Professional CMake: a Practical Guide
+
 ## Project Structure and Cmake
 
+The CMake usage and simple tutorial is in folder `3qtCreatorTest`, which explains:
+
 - How should the project structure be like? 
-  How to set CMake for this project? 
-  How to include files in main.cpp?
-  > The CMake usage and simple tutorial is in folder `3qtCreatorTest`
+- How to set CMake for this project? 
+- How to include files in main.cpp?
+
+## An Advanced Project Structure and Test.cpp
+
+`4CMakeAndTestCPP` demonstrates a simple C++ project managed by CMake with test cpp files in a test folder.
 
 - [ ] Test Cpp and head files in test/test.cpp
+  - [ ] Find the answer in modern-cmake
 
 # Image Processing Algorithm implemented in OpenCV
 
