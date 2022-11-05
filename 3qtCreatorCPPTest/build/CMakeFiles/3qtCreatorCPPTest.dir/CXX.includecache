@@ -6,17 +6,3 @@
 
 #IncludeRegexTransform: 
 
-../include/dog.h
-iostream
--
-
-/home/vac/Projects/GithubOpenCV/3qtCreatorCPPTest/main.cpp
-iostream
--
-dog.h
--
-
-/home/vac/Projects/GithubOpenCV/3qtCreatorCPPTest/src/dog.cpp
-dog.h
--
-
