@@ -1,7 +1,8 @@
 OpenCV Learning Notes
 ===
-
-# Install C++
+> A linux based learning tutorial and notes
+# 1. Pre-requiste for Linux
+## 1.1 Install C++
 
 1. Install `gcc`
 
@@ -19,7 +20,7 @@ OpenCV Learning Notes
 2. Test C++ with a project
 follow [Visual Studio Code Example](https://code.visualstudio.com/docs/cpp/config-linux)
 
-# Install OpenCV
+## 1.2 Install OpenCV
 Refer to [^1] and [^2].
 > `libgtk2.0-dev` and `pkg-config` are required for OpenCV to show image in linux
 
@@ -50,7 +51,7 @@ Refer to [^1] and [^2].
 
 [^2]: [GeeksforGeeks Install Reference](https://www.geeksforgeeks.org/how-to-install-opencv-in-c-on-linux/)
 
-# Learn Basic C++ Application
+# 2. Learn Basic C++ Application
 > using Qt Creator as IDE, since VS code requires too much memory
 
 What I read:
@@ -58,7 +59,7 @@ What I read:
 - [A website to learn CMake](https://cliutils.gitlab.io/modern-cmake/) : very basic, or list of things you should know but need to read more to comprehend
 - CMake book: Professional CMake: a Practical Guide
 
-## Project Structure and Cmake
+## 2.1 Project Structure and Cmake
 
 The CMake usage and simple tutorial is in folder `3qtCreatorTest`, which explains:
 
@@ -66,12 +67,20 @@ The CMake usage and simple tutorial is in folder `3qtCreatorTest`, which explain
 - How to set CMake for this project? 
 - How to include files in main.cpp?
 
-## An Advanced Project Structure and Test.cpp
+## 2.2 An Advanced Project Structure and Test.cpp
 
 `4CMakeAndTestCPP` demonstrates a simple C++ project managed by CMake with test cpp files in a test folder.
 
 - [ ] Test Cpp and head files in test/test.cpp
   - [ ] Find the answer in modern-cmake
+
+# 3. CMake Tutorial
+> Useful links
+> - https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
+> - https://www.youtube.com/watch?v=rLopVhns4Zs
+> - [Cmake example](https://github.com/wangzhezhe/5MCST/tree/master/cmake_example)
+> - https://stackoverflow.com/questions/26243169/cmake-target-include-directories-meaning-of-scope
+> - [Cmake offical tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
 
 # Image Processing Algorithm implemented in OpenCV
 
