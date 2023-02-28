@@ -19,6 +19,17 @@ OpenCV Learning Notes
 
 2. Test C++ with a project
 follow [Visual Studio Code Example](https://code.visualstudio.com/docs/cpp/config-linux)
+- create `CMakeLists.txt` file
+- add `cmake_minimum_required()`, `project()`, `add_executable()`
+- run
+    ```shell
+    mkdir build
+    cd build
+    cmake ..
+    make
+    # then run the exe by call
+    ./your-exectue-file
+    ```
 
 ## 1.2 Install OpenCV
 Refer to [^1] and [^2].

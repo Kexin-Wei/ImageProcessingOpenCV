@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "5MCST/cmake_example"
+		}
+	],
+	"settings": {
+		"cmake.buildDirectory": "${fileDirname}_build"
+	},
+	"tasks": {
+		"version": "2.0.0",
+		"tasks": [
+			{
+				"label": "My echo",
+				"type": "shell",
+				"command": "echo ${relativeFileDirname}",
+				"problemMatcher": [
+					"$armcc5"
+				]
+			}
+		]
+	}
+}
