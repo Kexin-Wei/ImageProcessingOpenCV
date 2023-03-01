@@ -92,10 +92,11 @@ The CMake usage and simple tutorial is in folder `3qtCreatorTest`, which explain
     - [Cmake example](https://github.com/wangzhezhe/5MCST/tree/master/cmake_example)
     - https://stackoverflow.com/questions/26243169/cmake-target-include-directories-meaning-of-scope
     - [Cmake offical tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
-2. Library / CMake & C++ Project Explan
+2.  CMake & C++ Project / Library Explan
     - https://matgomes.com/add-library-cmake-create-libraries/
-
-
+    - https://kubasejdak.com/modern-cmake-is-like-inheritance
+    - https://crascit.com/professional-cmake/
+    
 # Image Processing Algorithm implemented in OpenCV
 
 check the README.md in folder `opencvAlgo`.
