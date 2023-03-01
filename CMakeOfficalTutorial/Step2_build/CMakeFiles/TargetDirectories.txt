@@ -1,0 +1,4 @@
+D:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/Tutorial.dir
+D:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/ALL_BUILD.dir
+D:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/ZERO_CHECK.dir
+D:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir

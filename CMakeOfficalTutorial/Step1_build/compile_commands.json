@@ -1,0 +1,8 @@
+[
+{
+  "directory": "D:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step1_build",
+  "command": "C:\\cygwin64\\bin\\g++.exe -ID:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step1_build -O3 -DNDEBUG -std=gnu++11 -o CMakeFiles\\Tutorial.dir\\tutorial.cxx.obj -c D:\\GitRepos\\ImageProcessingOpenCV\\CMakeOfficalTutorial\\Step1\\tutorial.cxx",
+  "file": "D:\\GitRepos\\ImageProcessingOpenCV\\CMakeOfficalTutorial\\Step1\\tutorial.cxx",
+  "output": "CMakeFiles\\Tutorial.dir\\tutorial.cxx.obj"
+}
+]

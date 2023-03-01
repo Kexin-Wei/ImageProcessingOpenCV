@@ -1,0 +1,10 @@
+^D:\GITREPOS\IMAGEPROCESSINGOPENCV\CMAKEOFFICALTUTORIAL\STEP2_BUILD\CMAKEFILES\7D61C28FFC5206FE2DA90717D232B4EC\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2 -BD:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/Tutorial.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
