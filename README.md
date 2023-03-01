@@ -86,12 +86,15 @@ The CMake usage and simple tutorial is in folder `3qtCreatorTest`, which explain
   - [ ] Find the answer in modern-cmake
 
 # 3. CMake Tutorial
-> Useful links
-> - https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
-> - https://www.youtube.com/watch?v=rLopVhns4Zs
-> - [Cmake example](https://github.com/wangzhezhe/5MCST/tree/master/cmake_example)
-> - https://stackoverflow.com/questions/26243169/cmake-target-include-directories-meaning-of-scope
-> - [Cmake offical tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+1. General / Startup 
+    - https://pabloariasal.github.io/2018/02/19/its-time-to-do-cmake-right/
+    - https://www.youtube.com/watch?v=rLopVhns4Zs
+    - [Cmake example](https://github.com/wangzhezhe/5MCST/tree/master/cmake_example)
+    - https://stackoverflow.com/questions/26243169/cmake-target-include-directories-meaning-of-scope
+    - [Cmake offical tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+2. Library / CMake & C++ Project Explan
+    - https://matgomes.com/add-library-cmake-create-libraries/
+
 
 # Image Processing Algorithm implemented in OpenCV
 
