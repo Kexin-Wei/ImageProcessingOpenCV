@@ -1,0 +1,3 @@
+/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/Tutorial.dir
+/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/edit_cache.dir
+/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/rebuild_cache.dir

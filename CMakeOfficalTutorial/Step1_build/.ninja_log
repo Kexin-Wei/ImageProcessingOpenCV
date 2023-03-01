@@ -1,8 +1,0 @@
-# ninja log v5
-2	327	6993551649678329	build.ninja	1e728d39bac083b3
-2	603	6993551375521935	CMakeFiles/Tutorial.dir/tutorial.cxx.obj	b816ea652cbaa8d9
-604	852	6993551377980678	Tutorial.exe	8a4fe77c85bbcbdf
-2	548	6993551687307308	CMakeFiles/Tutorial.dir/tutorial.cxx.obj	b816ea652cbaa8d9
-549	768	6993551689473231	Tutorial.exe	8a4fe77c85bbcbdf
-1	544	6993552524042581	CMakeFiles/Tutorial.dir/tutorial.cxx.obj	b816ea652cbaa8d9
-545	763	6993552526191662	Tutorial.exe	8a4fe77c85bbcbdf
