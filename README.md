@@ -99,4 +99,4 @@ The CMake usage and simple tutorial is in folder `3qtCreatorTest`, which explain
     
 # Image Processing Algorithm implemented in OpenCV
 
-check the README.md in folder `opencvAlgo`.
+check the README.md in folder `5opencvAlgo`.
