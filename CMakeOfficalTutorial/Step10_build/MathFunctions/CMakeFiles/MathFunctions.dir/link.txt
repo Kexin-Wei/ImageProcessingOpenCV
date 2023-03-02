@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.1.sdk -dynamiclib -Wl,-headerpad_max_install_names -o ../libMathFunctions.dylib -install_name @rpath/libMathFunctions.dylib CMakeFiles/MathFunctions.dir/MathFunctions.cxx.o  ../libSqrtLibrary.a 

@@ -1,14 +1,14 @@
 // A simple program that computes the square root of a number
-#include <cmath>
+// #include <cmath>
 #include <iostream>
 #include <string>
 
 #include "TutorialConfig.h"
 
 // should we include the MathFunctions header?
-#ifdef USE_MYMATH
-#  include "MathFunctions.h"
-#endif
+// #ifdef USE_MYMATH
+#include "MathFunctions.h"
+// #endif
 
 int main(int argc, char* argv[])
 {
@@ -27,7 +27,7 @@ int main(int argc, char* argv[])
 #ifdef USE_MYMATH
   const double outputValue = mysqrt(inputValue);
 #else
-  const double outputValue = sqrt(inputValue);
+  const double outputValue = mathfunctions::sqrt(inputValue);
 #endif
 
   std::cout << "The square root of " << inputValue << " is " << outputValue

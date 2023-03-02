@@ -91,7 +91,7 @@ The CMake usage and simple tutorial is in folder `3qtCreatorTest`, which explain
     - https://www.youtube.com/watch?v=rLopVhns4Zs
     - [Cmake example](https://github.com/wangzhezhe/5MCST/tree/master/cmake_example)
     - https://stackoverflow.com/questions/26243169/cmake-target-include-directories-meaning-of-scope
-    - [Cmake offical tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+    - [Cmake offical tutorial](https://cmalske.org/cmake/help/latest/guide/tutorial/index.html)
 2.  CMake & C++ Project / Library Explan
     - https://matgomes.com/add-library-cmake-create-libraries/
     - https://kubasejdak.com/modern-cmake-is-like-inheritance

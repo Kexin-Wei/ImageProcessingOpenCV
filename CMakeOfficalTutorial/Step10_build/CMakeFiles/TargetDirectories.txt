@@ -1,0 +1,16 @@
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/CMakeFiles/Tutorial.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/CMakeFiles/edit_cache.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/CMakeFiles/rebuild_cache.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/CMakeFiles/list_install_components.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/CMakeFiles/install.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/CMakeFiles/install/local.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/CMakeFiles/install/strip.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/MakeTable.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/edit_cache.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/list_install_components.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/install.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/install/local.dir
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step10_build/MathFunctions/CMakeFiles/install/strip.dir

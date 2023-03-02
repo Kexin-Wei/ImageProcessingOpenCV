@@ -1,0 +1,4 @@
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step9_build/_CPack_Packages/Darwin/ZIP/Tutorial-1.0-Darwin/lib/libMathFunctions.a
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step9_build/_CPack_Packages/Darwin/ZIP/Tutorial-1.0-Darwin/include/MathFunctions.h
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step9_build/_CPack_Packages/Darwin/ZIP/Tutorial-1.0-Darwin/bin/Tutorial
+/Users/kexinwei/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step9_build/_CPack_Packages/Darwin/ZIP/Tutorial-1.0-Darwin/include/TutorialConfig.h
