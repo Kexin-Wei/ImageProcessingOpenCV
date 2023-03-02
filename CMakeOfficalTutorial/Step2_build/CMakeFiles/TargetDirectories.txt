@@ -1,6 +1,6 @@
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/Tutorial.dir
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/edit_cache.dir
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/rebuild_cache.dir
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/Tutorial.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/edit_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/CMakeFiles/rebuild_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/MathFunctions/CMakeFiles/edit_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step2_build/MathFunctions/CMakeFiles/rebuild_cache.dir

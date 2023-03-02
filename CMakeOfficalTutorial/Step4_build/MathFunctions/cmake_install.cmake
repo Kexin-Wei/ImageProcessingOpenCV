@@ -1,4 +1,4 @@
-# Install script for directory: /home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step3/MathFunctions
+# Install script for directory: /mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4/MathFunctions
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
