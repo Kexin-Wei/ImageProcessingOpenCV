@@ -1,3 +1,6 @@
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/Tutorial.dir
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/edit_cache.dir
-/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/rebuild_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/Tutorial.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/edit_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/CMakeFiles/rebuild_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/MathFunctions/CMakeFiles/edit_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step4_build/MathFunctions/CMakeFiles/rebuild_cache.dir
