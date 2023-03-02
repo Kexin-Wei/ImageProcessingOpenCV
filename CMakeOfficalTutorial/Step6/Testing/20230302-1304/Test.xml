@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20230302-1304-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.22.1"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="kk-desktop"
+	OSRelease="5.15.0-1024-raspi"
+	OSVersion="#26-Ubuntu SMP PREEMPT Wed Jan 18 15:29:53 UTC 2023"
+	OSPlatform="aarch64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="8"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="1023"
+	TotalPhysicalMemory="7808"
+	LogicalProcessorsPerPhysical="4"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Mar 02 21:04 +08</StartDateTime>
+		<StartTestTime>1677762261</StartTestTime>
+		<TestList/>
+		<EndDateTime>Mar 02 21:04 +08</EndDateTime>
+		<EndTestTime>1677762261</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

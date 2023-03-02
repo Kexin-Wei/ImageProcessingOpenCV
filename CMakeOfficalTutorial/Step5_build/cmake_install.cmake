@@ -1,4 +1,4 @@
-# Install script for directory: /mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5
+# Install script for directory: /home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -44,17 +44,17 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for the subdirectory.
-  include("/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/MathFunctions/cmake_install.cmake")
+  include("/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/MathFunctions/cmake_install.cmake")
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Tutorial" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Tutorial")
     file(RPATH_CHECK
          FILE "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Tutorial"
          RPATH "")
   endif()
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/Tutorial")
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/bin" TYPE EXECUTABLE FILES "/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/Tutorial")
   if(EXISTS "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Tutorial" AND
      NOT IS_SYMLINK "$ENV{DESTDIR}${CMAKE_INSTALL_PREFIX}/bin/Tutorial")
     if(CMAKE_INSTALL_DO_STRIP)
@@ -63,8 +63,8 @@ if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT
   endif()
 endif()
 
-if(CMAKE_INSTALL_COMPONENT STREQUAL "Unspecified" OR NOT CMAKE_INSTALL_COMPONENT)
-  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE FILE FILES "/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/TutorialConfig.h")
+if("x${CMAKE_INSTALL_COMPONENT}x" STREQUAL "xUnspecifiedx" OR NOT CMAKE_INSTALL_COMPONENT)
+  file(INSTALL DESTINATION "${CMAKE_INSTALL_PREFIX}/include" TYPE FILE FILES "/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/TutorialConfig.h")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -75,5 +75,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

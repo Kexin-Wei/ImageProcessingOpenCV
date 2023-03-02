@@ -8,12 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5/tutorial.cxx" "CMakeFiles/Tutorial.dir/tutorial.cxx.o" "gcc" "CMakeFiles/Tutorial.dir/tutorial.cxx.o.d"
+  "/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5/tutorial.cxx" "CMakeFiles/Tutorial.dir/tutorial.cxx.o" "gcc" "CMakeFiles/Tutorial.dir/tutorial.cxx.o.d"
   )
 
 # Targets to which this target links.
 set(CMAKE_TARGET_LINKED_INFO_FILES
-  "/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/MathFunctions/CMakeFiles/MathFunctions.dir/DependInfo.cmake"
+  "/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5_build/MathFunctions/CMakeFiles/MathFunctions.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.

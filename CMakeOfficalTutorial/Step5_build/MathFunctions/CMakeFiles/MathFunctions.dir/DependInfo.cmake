@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "/mnt/d/GitRepos/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5/MathFunctions/mysqrt.cxx" "MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o" "gcc" "MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o.d"
+  "/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step5/MathFunctions/mysqrt.cxx" "MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o" "gcc" "MathFunctions/CMakeFiles/MathFunctions.dir/mysqrt.cxx.o.d"
   )
 
 # Targets to which this target links.

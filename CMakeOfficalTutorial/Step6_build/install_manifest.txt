@@ -1,0 +1,8 @@
+/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step6_build/../Step6_install
+/lib/libMathFunctions.a
+/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step6_build/../Step6_install
+/include/MathFunctions.h
+/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step6_build/../Step6_install
+/bin/Tutorial
+/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step6_build/../Step6_install
+/include/TutorialConfig.h

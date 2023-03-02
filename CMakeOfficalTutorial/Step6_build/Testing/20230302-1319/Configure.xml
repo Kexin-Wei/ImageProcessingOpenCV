@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20230302-1319-Experimental"
+	Name="kk-desktop"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.3.0"
+	OSName="Linux"
+	Hostname="kk-desktop"
+	OSRelease="5.15.0-1024-raspi"
+	OSVersion="#26-Ubuntu SMP PREEMPT Wed Jan 18 15:29:53 UTC 2023"
+	OSPlatform="aarch64"
+	Is64Bits="1"
+	VendorString=""
+	VendorID="Unknown Manufacturer"
+	FamilyID="8"
+	ModelID="0"
+	ProcessorCacheSize="0"
+	NumberOfLogicalCPU="4"
+	NumberOfPhysicalCPU="1"
+	TotalVirtualMemory="1023"
+	TotalPhysicalMemory="7808"
+	LogicalProcessorsPerPhysical="4"
+	ProcessorClockFrequency="0"
+	>
+	<Configure>
+		<StartDateTime>Mar 02 21:19 +08</StartDateTime>
+		<StartConfigureTime>1677763181</StartConfigureTime>
+		<ConfigureCommand>"/usr/bin/cmake" "/home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step6"</ConfigureCommand>
+		<Log>-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/kk/ImageProcessingOpenCV/CMakeOfficalTutorial/Step6_build
+</Log>
+		<ConfigureStatus>0</ConfigureStatus>
+		<EndDateTime>Mar 02 21:19 +08</EndDateTime>
+		<EndConfigureTime>1677763182</EndConfigureTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Configure>
+</Site>
