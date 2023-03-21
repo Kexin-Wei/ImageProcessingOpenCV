@@ -33,6 +33,7 @@ RUN cd ~ && \
     cmake -D CMAKE_BUILD_TYPE=Release \
           -D CMAKE_INSTALL_PREFIX=/usr/local \
           -D OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib/modules \
+          -D PYTHON3_PACKAGES_PATH=/usr/lib/python3.8/dist-packages \
           .. && \
     make -j$(nproc) && \
     make install && \
