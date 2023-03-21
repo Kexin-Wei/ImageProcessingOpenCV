@@ -1,0 +1,3 @@
+/mnt/d/GitRepos/ImageProcessingOpenCV/5MCST/build_useotherproject/CMakeFiles/main.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/5MCST/build_useotherproject/CMakeFiles/edit_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/5MCST/build_useotherproject/CMakeFiles/rebuild_cache.dir

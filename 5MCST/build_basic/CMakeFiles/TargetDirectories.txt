@@ -1,0 +1,4 @@
+/mnt/d/GitRepos/ImageProcessingOpenCV/5MCST/build_basic/CMakeFiles/MathFunctions.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/5MCST/build_basic/CMakeFiles/Tutorial.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/5MCST/build_basic/CMakeFiles/edit_cache.dir
+/mnt/d/GitRepos/ImageProcessingOpenCV/5MCST/build_basic/CMakeFiles/rebuild_cache.dir
