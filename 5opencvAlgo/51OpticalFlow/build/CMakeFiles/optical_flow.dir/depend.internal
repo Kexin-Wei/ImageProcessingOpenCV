@@ -36,5 +36,14 @@ CMakeFiles/optical_flow.dir/main.cpp.o
  /usr/local/include/opencv4/opencv2/imgcodecs.hpp
  /usr/local/include/opencv4/opencv2/imgproc.hpp
  /usr/local/include/opencv4/opencv2/imgproc/segmentation.hpp
+ /usr/local/include/opencv4/opencv2/objdetect.hpp
+ /usr/local/include/opencv4/opencv2/objdetect/aruco_board.hpp
+ /usr/local/include/opencv4/opencv2/objdetect/aruco_detector.hpp
+ /usr/local/include/opencv4/opencv2/objdetect/aruco_dictionary.hpp
+ /usr/local/include/opencv4/opencv2/objdetect/charuco_detector.hpp
+ /usr/local/include/opencv4/opencv2/objdetect/detection_based_tracker.hpp
+ /usr/local/include/opencv4/opencv2/objdetect/face.hpp
+ /usr/local/include/opencv4/opencv2/objdetect/objdetect.hpp
  /usr/local/include/opencv4/opencv2/opencv_modules.hpp
+ /usr/local/include/opencv4/opencv2/video/tracking.hpp
  /usr/local/include/opencv4/opencv2/videoio.hpp

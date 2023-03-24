@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/gitrepo/build",
-  "command": "/usr/bin/c++    -O3 -DNDEBUG   -o CMakeFiles/helloworldCPPtest.dir/helloworld.cpp.o -c /gitrepo/1helloworldCPPtest/helloworld.cpp",
-  "file": "/gitrepo/1helloworldCPPtest/helloworld.cpp"
-}
-]

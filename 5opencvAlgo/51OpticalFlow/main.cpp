@@ -1,14 +1,14 @@
 #include <iostream>
-#include "opencv2\highgui.hpp"
-#include "opencv2\imgproc.hpp"
-#include "opencv2\objdetect\objdetect.hpp"
-#include "opencv2/video/tracking.hpp"
+#include <opencv2/highgui.hpp>
+#include <opencv2/imgproc.hpp>
+#include <opencv2/objdetect/objdetect.hpp>
+#include <opencv2/video/tracking.hpp>
 
 void copliotTest(cv::Mat image1, cv::Mat image2){
     // calculate the optical flow of two images
     // and display the optical flow in the first image
     cv::Mat flow;
-    cv::calcOpticalFlowFarneback(*image1, *image2, flow, 0.5, 3, 15, 3, 5, 1.2, 0);
+    cv::calcOpticalFlowFarneback(image1, image2, flow, 0.5, 3, 15, 3, 5, 1.2, 0);
     cv::Mat flow_parts[2];
     cv::split(flow, flow_parts);
     cv::Mat magnitude, angle, magn_norm;
@@ -16,7 +16,7 @@ void copliotTest(cv::Mat image1, cv::Mat image2){
     cv::normalize(magnitude, magn_norm, 0.0f, 1.0f, cv::NORM_MINMAX);
     angle *= ((1.f / 360.f) * (180.f / 255.f));
 
-    //display the optical flow
+    //display the optical flow in arrow form    
     cv::Mat _hsv[3], hsv, hsv8, bgr;
     _hsv[0] = angle;
     _hsv[1] = cv::Mat::ones(angle.size(), CV_32F);
@@ -49,8 +49,10 @@ void openaiTest(cv::Mat image1, cv::Mat image2){
 int main(int argc, char** argv)
 {
     // read the  two images
-    cv::Mat image1 = cv::imread("1.jpg");
-    cv::Mat image2 = cv::imread("2.jpg");
+    cv::Mat image1 = cv::imread("fixed_case1.dcm.png");
+    cv::Mat image2 = cv::imread("moving_case1.dcm.png");
+    // cv::Mat image1 = cv::imread("basketball1.png");
+    // cv::Mat image2 = cv::imread("basketball2.png");
 
     // check if the images are empty
     if (image1.empty() || image2.empty())
@@ -58,6 +60,9 @@ int main(int argc, char** argv)
         std::cout << "Could not read the image: " << std::endl;
         return 1;
     }
+    // convert the images to grayscale
+    cv::cvtColor(image1, image1, cv::COLOR_BGR2GRAY);
+    cv::cvtColor(image2, image2, cv::COLOR_BGR2GRAY);
 
     copliotTest(image1,image2);
     openaiTest(image1,image2);
