@@ -1,0 +1,3 @@
+/gitrepo/build/CMakeFiles/rebuild_cache.dir
+/gitrepo/build/CMakeFiles/edit_cache.dir
+/gitrepo/build/CMakeFiles/helloworldCPPtest.dir
