@@ -161,8 +161,8 @@
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/gitrepo/5opencvAlgo/51opencvTest/build",
-		"source" : "/gitrepo/5opencvAlgo/51opencvTest"
+		"build" : "/gitrepo/5opencvAlgo/51OpticalFlow/build",
+		"source" : "/gitrepo/5opencvAlgo/51OpticalFlow"
 	},
 	"version" : 
 	{

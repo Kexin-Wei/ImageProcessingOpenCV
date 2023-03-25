@@ -9,19 +9,23 @@ RUN apt-get update && apt-get install -y \
     build-essential \
     cmake \
     git \
-    libgtk2.0-dev \
+    wget \
+    unzip \
+    yasm \
     pkg-config \
     libavcodec-dev \
     libavformat-dev \
     libswscale-dev \
     python3-dev \
     python3-numpy \
+    python3-pip \
     libtbb2 \
     libtbb-dev \
     libjpeg-dev \
     libpng-dev \
     libtiff-dev \
-    libdc1394-22-dev
+    libavformat-dev \
+    libpq-dev
 
 # Download and build OpenCV
 RUN cd ~ && \
@@ -34,6 +38,32 @@ RUN cd ~ && \
           -D CMAKE_INSTALL_PREFIX=/usr/local \
           -D OPENCV_EXTRA_MODULES_PATH=~/opencv_contrib/modules \
           -D PYTHON3_PACKAGES_PATH=/usr/lib/python3.8/dist-packages \
+          -D BUILD_opencv_python2=OFF \
+          -D BUILD_EXAMPLES=OFF \
+          -D WITH_TBB=ON \
+          -D WITH_QT=OFF \
+          .. && \
+    make -j$(nproc) && \
+    make install && \
+    ldconfig
+
+# Clone and build ITK
+RUN cd ~ && \
+    git clone https://github.com/InsightSoftwareConsortium/ITK.git && \
+    cd ITK && mkdir build && cd build && \
+    cmake -D CMAKE_BUILD_TYPE=RELEASE \
+          -D CMAKE_INSTALL_PREFIX=/usr/local \
+          .. && \
+    make -j$(nproc) && \
+    make install && \
+    ldconfig
+
+# Clone and build VTK
+RUN cd ~ && \
+    git clone https://github.com/Kitware/VTK.git && \
+    cd VTK && mkdir build && cd build && \
+    cmake -D CMAKE_BUILD_TYPE=RELEASE \
+          -D CMAKE_INSTALL_PREFIX=/usr/local \
           .. && \
     make -j$(nproc) && \
     make install && \

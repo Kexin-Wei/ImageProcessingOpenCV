@@ -5,7 +5,7 @@
 
 int main() {
     // Read an image
-    cv::Mat input_image = cv::imread("index.jpg", cv::IMREAD_COLOR);
+    cv::Mat input_image = cv::imread("../index.jpg", cv::IMREAD_COLOR);
     if (input_image.empty()) {
         std::cerr << "Error: Could not read the image." << std::endl;
         return 1;

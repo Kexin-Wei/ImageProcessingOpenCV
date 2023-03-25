@@ -1,4 +1,4 @@
-# Install script for directory: /gitrepo/5opencvAlgo/51opencvTest
+# Install script for directory: /gitrepo/5opencvAlgo/50opencvTest
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/gitrepo/5opencvAlgo/51opencvTest/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/gitrepo/5opencvAlgo/50opencvTest/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

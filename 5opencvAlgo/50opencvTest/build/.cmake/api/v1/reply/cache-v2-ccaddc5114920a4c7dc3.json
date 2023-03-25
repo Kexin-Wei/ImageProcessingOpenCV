@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/gitrepo/5opencvAlgo/51opencvTest/build"
+			"value" : "/gitrepo/5opencvAlgo/50opencvTest/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -595,7 +595,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/gitrepo/5opencvAlgo/51opencvTest"
+			"value" : "/gitrepo/5opencvAlgo/50opencvTest"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1134,30 +1134,6 @@
 			"value" : "[/usr/local][v4.7.0()]"
 		},
 		{
-			"name" : "OpenCVAlgo_BINARY_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/gitrepo/5opencvAlgo/51opencvTest/build"
-		},
-		{
-			"name" : "OpenCVAlgo_SOURCE_DIR",
-			"properties" : 
-			[
-				{
-					"name" : "HELPSTRING",
-					"value" : "Value Computed by CMake"
-				}
-			],
-			"type" : "STATIC",
-			"value" : "/gitrepo/5opencvAlgo/51opencvTest"
-		},
-		{
 			"name" : "OpenCV_DIR",
 			"properties" : 
 			[
@@ -1179,7 +1155,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/gitrepo/5opencvAlgo/51opencvTest/build"
+			"value" : "/gitrepo/5opencvAlgo/50opencvTest/build"
 		},
 		{
 			"name" : "opencv_example_SOURCE_DIR",
@@ -1191,7 +1167,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/gitrepo/5opencvAlgo/51opencvTest"
+			"value" : "/gitrepo/5opencvAlgo/50opencvTest"
 		}
 	],
 	"kind" : "cache",

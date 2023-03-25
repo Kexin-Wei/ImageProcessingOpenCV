@@ -49,10 +49,10 @@ void openaiTest(cv::Mat image1, cv::Mat image2){
 int main(int argc, char** argv)
 {
     // read the  two images
-    cv::Mat image1 = cv::imread("fixed_case1.dcm.png");
-    cv::Mat image2 = cv::imread("moving_case1.dcm.png");
-    // cv::Mat image1 = cv::imread("basketball1.png");
-    // cv::Mat image2 = cv::imread("basketball2.png");
+    // cv::Mat image1 = cv::imread("../pic_kidney_motion/fixed_case1.dcm.png");
+    // cv::Mat image2 = cv::imread("../pic_kidney_motion/moving_case1.dcm.png");
+    cv::Mat image1 = cv::imread("../pic_basketball/basketball1.png");
+    cv::Mat image2 = cv::imread("../pic_basketball/basketball2.png");
 
     // check if the images are empty
     if (image1.empty() || image2.empty())
