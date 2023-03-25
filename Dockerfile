@@ -47,27 +47,5 @@ RUN cd ~ && \
     make install && \
     ldconfig
 
-# Clone and build ITK
-RUN cd ~ && \
-    git clone https://github.com/InsightSoftwareConsortium/ITK.git && \
-    cd ITK && mkdir build && cd build && \
-    cmake -D CMAKE_BUILD_TYPE=RELEASE \
-          -D CMAKE_INSTALL_PREFIX=/usr/local \
-          .. && \
-    make -j$(nproc) && \
-    make install && \
-    ldconfig
-
-# Clone and build VTK
-RUN cd ~ && \
-    git clone https://github.com/Kitware/VTK.git && \
-    cd VTK && mkdir build && cd build && \
-    cmake -D CMAKE_BUILD_TYPE=RELEASE \
-          -D CMAKE_INSTALL_PREFIX=/usr/local \
-          .. && \
-    make -j$(nproc) && \
-    make install && \
-    ldconfig
-
 # Set the default command to run a Bash shell
 CMD ["bash"]
