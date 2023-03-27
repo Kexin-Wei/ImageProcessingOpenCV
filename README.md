@@ -96,10 +96,6 @@ The CMake usage and simple tutorial is in folder `3qtCreatorTest`, which explain
     - https://matgomes.com/add-library-cmake-create-libraries/
     - https://kubasejdak.com/modern-cmake-is-like-inheritance
     - https://crascit.com/professional-cmake/
-    
-# 5. Image Processing Algorithm implemented in OpenCV
-
-check the README.md in folder `5opencvAlgo`.
 
 # 6. Install docker from docker file
 

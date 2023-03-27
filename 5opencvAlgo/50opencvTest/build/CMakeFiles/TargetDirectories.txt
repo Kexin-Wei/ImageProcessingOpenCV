@@ -1,3 +1,0 @@
-/gitrepo/5opencvAlgo/50opencvTest/build/CMakeFiles/rebuild_cache.dir
-/gitrepo/5opencvAlgo/50opencvTest/build/CMakeFiles/edit_cache.dir
-/gitrepo/5opencvAlgo/50opencvTest/build/CMakeFiles/opencv_example.dir
